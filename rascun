@@ -1,0 +1,253 @@
+
+    <main>
+
+ 
+        <p id="titulo1">Criadores que você pode gostar:</p>
+
+
+        <div id="image">
+
+
+        <div> 
+        <img class="imagens" src="./assents/portal do gremio.png" alt="isadora">
+        <p>Portal do Grêmio</p>
+        </div>
+
+        <div> 
+        <img class="imagens" src="./assents/shein.png" alt="shein">
+        <p>Shein</p>
+        </div>
+
+        <div > 
+        <img class="imagens" src="./assents/burguer kink.png" alt="bk">
+        <p>Burguer king</p>
+        </div>
+
+        <div> 
+        <img class="imagens" src="./assents/rennner.png" alt="renner">
+        <p>Renner</p>
+        </div>
+
+          <div> 
+        <img class="imagens" src="./assents/logo canva.png" alt="canva">
+        <p>Canva</p>
+        </div>
+
+        <div> 
+        <img class="imagens" src="./assents/instagram.png" alt="Instagram">
+        <p>Instagram</p>
+        </div>
+
+        <div > 
+        <img class="imagens" src="./assents/netfl.jpg" alt="netflix">
+        <p>Netflix</p>
+        </div>
+
+        <div> 
+        <img class="imagens" src="./assents/spotfy.png" alt="spotfy">
+        <p>Spotfy</p>
+        </div>
+
+
+    </div>
+
+
+
+
+     <div id="image"> 
+
+        <div>
+            <img class="imagens" src="./assents/roblox.jpg" alt="roblox">
+            <p>Roblox</p>
+        </div>
+
+        <div>
+            <img class="imagens" src="./assents/hau day.png" alt="hay day">
+            <p>Hay day</p>
+        </div>
+            
+        <div>
+            <img class="imagens" src="./assents/among us.jpeg" alt="among us">
+            <p>Among us </p>
+        </div>
+
+        <div>
+            <img class="imagens" src="./assents/angry burds.jfif" alt="angry birds">
+            <p>Angry birds</p>
+        </div>
+
+        <div>
+            <img class="imagens" src="./assents/waze.png" alt="Waze">
+            <p>Waze</p>
+        </div>
+
+        <div>
+            <img class="imagens" src="./assents/tiktok.jpg" alt="ttk">
+            <p>TikTok</p>
+        </div>
+            
+        <div>
+            <img class="imagens" src="./assents/youyube.png" alt=" youtube">
+            <p>Youtube </p>
+        </div>
+
+        <div>
+            <img class="imagens" src="./assents/wpp.png" alt="awpp">
+            <p>WhatsApp</p>
+        </div>
+
+     </div>
+
+        
+        <div id="image">
+
+
+            <div> 
+            <img class="imagens" src="./assents/you com.png" alt="Youcom">
+            <p>YouCom</p>
+            </div>
+    
+            <div> 
+            <img class="imagens" src="./assents/kwai.jpg" alt="kwai">
+            <p>Kwai</p>
+            </div>
+    
+            <div > 
+            <img class="imagens" src="./assents/uber.jfif" alt="uber">
+            <p>Uber</p>
+            </div>
+    
+            <div> 
+            <img class="imagens" src="./assents/mc dolands.jpg" alt="mc do">
+            <p>Mc donalds</p>
+            </div>
+ 
+              <div> 
+            <img class="imagens" src="./assents/fotos.png" alt="fotos">
+            <p>Google fotos</p>
+            </div>
+    
+            <div> 
+            <img class="imagens" src="./assents/logo twiter.png" alt="tt">
+            <p>Twitter</p>
+            </div>
+    
+            <div > 
+            <img class="imagens" src="./assents/pics.jpg" alt="pics">
+            <p>Pics art</p>
+            </div>
+    
+            <div> 
+            <img class="imagens" src="./assents/kindle.png" alt=" kindl">
+            <p>Kindle</p>
+            </div>
+ 
+            
+
+ 
+       
+    
+
+</section>
+
+
+    </main>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    <main>
+
+        <p id="titulo1"> Apps: </p>
+        
+
+        <div id="image">
+            <img class="imagens"  src="assents/portal do gremio.png" alt="isadora">
+            <img class="imagens"  src="assents/shein.png" alt="shein">
+            <img class="imagens"  src="assents/burguer kink.png" alt="king">
+            <img class="imagens"  src="assents/rennner.png" alt="renner">
+
+            <img class="imagens"  src="assents/logo canva.png" alt="canva">
+            <img class="imagens"  src="assents/instagram.png" alt="instagram">
+            <img class="imagens"  src="assents/netfl.jpg" alt="netfliz">
+            <img class="imagens"  src="assents/spotfy.png" alt="spotfy">
+        </div>
+
+
+
+
+
+        <div id="image">
+            <img class="imagens" src="assents/roblox.jpg" alt="roblox">
+            <img class="imagens" src="assents/hau day.png" alt="hay day">
+            <img class="imagens" src="assents/among us.jpeg" alt="among us">
+            <img class="imagens" src="assents/angry burds.jfif" alt="birds">
+
+            <img class="imagens"  src="assents/waze.png" alt="waze">
+            <img class="imagens"  src="assents/tiktok.jpg" alt="ttk">
+            <img class="imagens"  src="assents/youyube.png" alt="youtub">
+            <img class="imagens"  src="assents/wpp.png" alt="wpp">
+        </div>
+
+
+
+
+
+        <div id="image">
+            <img class="imagens" src="assents/you com.png" alt="you">
+            <img class="imagens" src="assents/kwai.jpg" alt="kwa">
+            <img class="imagens" src="assents/uber.jfif" alt="ub">
+            <img class="imagens" src="assents/mc dolands.jpg" alt="mc">
+
+            <img class="imagens"  src="assents/fotos.png" alt="gog foto">
+            <img class="imagens"  src="assents/logo twiter.png" alt="tt">
+            <img class="imagens"  src="assents/pics.jpg" alt="picks art">
+            <img class="imagens"  src="assents/kindle.png" alt="kindle">
+        </div>
+
+
+
+

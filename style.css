@@ -1,0 +1,131 @@
+
+/*zerar tudo*/
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+
+/*cabeçario*/
+
+#lupa{
+    width: 30px;
+} 
+
+
+#login{
+    width: 25px;
+}
+
+#logo{
+
+    width: 200px;
+
+}
+
+#sino{
+    width: 25px;
+}
+
+header{
+    
+    padding: 10px;
+    justify-content: space-between;
+    background-color: rgb(174, 174, 174);
+    box-shadow: 10px 5px 5px rgb(53, 51, 51);
+    
+}
+
+.pes{
+    
+    border-radius: 100px;
+    border-color: aliceblue;
+}
+
+.cabecario{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pesquisa{
+ 
+    align-items: center;
+    display: flex;
+   
+    
+}
+
+
+
+
+
+
+
+/*primeira parte do site*/
+
+
+.palavra{
+    font-size: medium;
+    border: 2px solid black;
+    border-radius: 30px;
+    padding: 10px;
+    background-color: rgb(221, 221, 221);
+
+}
+
+#classif{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+   
+    
+}
+
+
+/*segunda parte do site*/
+
+.imagens{
+
+    border: 2px solid black;
+    border-radius: 100px;
+    width: 100px;
+    margin: 35px;
+    box-shadow: 10px 5px 5px rgb(105, 73, 38);
+}
+
+#titulo1{
+
+    margin: 50px;
+    border: 2px solid black;
+    display: flex;
+    border-radius: 30px;
+    padding: 20px;
+    width: 300px;
+    background-color: rgb(174, 174, 174);
+}
+
+#image{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+
+}
+
+
+
+/*Cor do fundo */
+
+body{
+
+    background-color: rgb(203, 203, 203);
+}
+
+
